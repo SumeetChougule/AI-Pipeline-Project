@@ -17,7 +17,7 @@ This project implements a Flask-based server that processes images through a YOL
 ### Run the Flask application:
 2. Install Python dependencies:
    ```bash
-    python app.py        
+    python app.py       
 
 ### Usage
 
@@ -29,6 +29,7 @@ Send a POST request to http://localhost:5000/process with a JSON payload with im
 You can also add links of the images to image_input.py to send images through the pipeline. Run the following command
    ```bash
    python image_input.py
+   ```
 
 ### Output
 
