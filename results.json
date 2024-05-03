@@ -1,0 +1,3643 @@
+[
+    {
+        "url": "https://raw.githubusercontent.com/SumeetChougule/image-hosting/main/images/image-0.jpg",
+        "detection_results": [
+            {
+                "xmin": 1134.31982421875,
+                "ymin": 1280.4617919921875,
+                "xmax": 1586.1240234375,
+                "ymax": 1893.9644775390625,
+                "confidence": 0.9006073474884033,
+                "class": 28,
+                "name": "suitcase"
+            },
+            {
+                "xmin": 2376.797607421875,
+                "ymin": 1675.20751953125,
+                "xmax": 3070.427734375,
+                "ymax": 1993.7945556640625,
+                "confidence": 0.8181249499320984,
+                "class": 28,
+                "name": "suitcase"
+            },
+            {
+                "xmin": 1951.057373046875,
+                "ymin": 1126.1851806640625,
+                "xmax": 2415.632080078125,
+                "ymax": 1432.3082275390625,
+                "confidence": 0.8072687387466431,
+                "class": 28,
+                "name": "suitcase"
+            },
+            {
+                "xmin": 194.6345672607422,
+                "ymin": 1436.2838134765625,
+                "xmax": 693.0484619140625,
+                "ymax": 1820.342529296875,
+                "confidence": 0.8021494746208191,
+                "class": 28,
+                "name": "suitcase"
+            },
+            {
+                "xmin": 782.4322509765625,
+                "ymin": 1332.0560302734375,
+                "xmax": 1156.8765869140625,
+                "ymax": 1878.45849609375,
+                "confidence": 0.7371885180473328,
+                "class": 28,
+                "name": "suitcase"
+            },
+            {
+                "xmin": 1552.4942626953125,
+                "ymin": 1531.2923583984375,
+                "xmax": 1833.7972412109375,
+                "ymax": 1856.898681640625,
+                "confidence": 0.7340649962425232,
+                "class": 28,
+                "name": "suitcase"
+            },
+            {
+                "xmin": 2410.265625,
+                "ymin": 1453.1776123046875,
+                "xmax": 2984.005859375,
+                "ymax": 1695.709716796875,
+                "confidence": 0.7185458540916443,
+                "class": 28,
+                "name": "suitcase"
+            },
+            {
+                "xmin": 2461.773193359375,
+                "ymin": 1293.701904296875,
+                "xmax": 3089.748779296875,
+                "ymax": 1504.318115234375,
+                "confidence": 0.7066348791122437,
+                "class": 28,
+                "name": "suitcase"
+            },
+            {
+                "xmin": 1391.2757568359375,
+                "ymin": 1136.973388671875,
+                "xmax": 1867.4000244140625,
+                "ymax": 1563.1824951171875,
+                "confidence": 0.649301290512085,
+                "class": 28,
+                "name": "suitcase"
+            },
+            {
+                "xmin": 2407.345703125,
+                "ymin": 1113.2047119140625,
+                "xmax": 2659.687744140625,
+                "ymax": 1291.958984375,
+                "confidence": 0.6052664518356323,
+                "class": 28,
+                "name": "suitcase"
+            },
+            {
+                "xmin": 654.8267822265625,
+                "ymin": 1293.863525390625,
+                "xmax": 868.344482421875,
+                "ymax": 1838.53564453125,
+                "confidence": 0.5419127345085144,
+                "class": 28,
+                "name": "suitcase"
+            },
+            {
+                "xmin": 404.3007507324219,
+                "ymin": 1225.8065185546875,
+                "xmax": 845.6976318359375,
+                "ymax": 1392.1138916015625,
+                "confidence": 0.5322650074958801,
+                "class": 28,
+                "name": "suitcase"
+            },
+            {
+                "xmin": 864.3469848632812,
+                "ymin": 992.0616455078125,
+                "xmax": 1316.44580078125,
+                "ymax": 1281.4766845703125,
+                "confidence": 0.5290816426277161,
+                "class": 28,
+                "name": "suitcase"
+            },
+            {
+                "xmin": 2154.3388671875,
+                "ymin": 1553.3572998046875,
+                "xmax": 2355.505615234375,
+                "ymax": 1935.9288330078125,
+                "confidence": 0.5196236968040466,
+                "class": 28,
+                "name": "suitcase"
+            },
+            {
+                "xmin": 1966.8719482421875,
+                "ymin": 1341.176513671875,
+                "xmax": 2415.57373046875,
+                "ymax": 1868.4461669921875,
+                "confidence": 0.48361021280288696,
+                "class": 28,
+                "name": "suitcase"
+            },
+            {
+                "xmin": 865.3206787109375,
+                "ymin": 990.5302734375,
+                "xmax": 1328.9097900390625,
+                "ymax": 1282.9354248046875,
+                "confidence": 0.4153362512588501,
+                "class": 26,
+                "name": "handbag"
+            },
+            {
+                "xmin": 2376.1318359375,
+                "ymin": 1676.5606689453125,
+                "xmax": 2607.064697265625,
+                "ymax": 1969.7445068359375,
+                "confidence": 0.4099557399749756,
+                "class": 28,
+                "name": "suitcase"
+            },
+            {
+                "xmin": 373.427978515625,
+                "ymin": 1333.900146484375,
+                "xmax": 795.5962524414062,
+                "ymax": 1458.6365966796875,
+                "confidence": 0.3554525375366211,
+                "class": 28,
+                "name": "suitcase"
+            },
+            {
+                "xmin": 2067.85546875,
+                "ymin": 819.56787109375,
+                "xmax": 2414.90771484375,
+                "ymax": 1092.29345703125,
+                "confidence": 0.33032023906707764,
+                "class": 28,
+                "name": "suitcase"
+            },
+            {
+                "xmin": 2362.30322265625,
+                "ymin": 834.6443481445312,
+                "xmax": 2567.948974609375,
+                "ymax": 1148.8050537109375,
+                "confidence": 0.3176403343677521,
+                "class": 28,
+                "name": "suitcase"
+            },
+            {
+                "xmin": 0.0,
+                "ymin": 1202.2421875,
+                "xmax": 135.40896606445312,
+                "ymax": 1761.7393798828125,
+                "confidence": 0.2944670617580414,
+                "class": 13,
+                "name": "bench"
+            },
+            {
+                "xmin": 2520.59326171875,
+                "ymin": 1090.826416015625,
+                "xmax": 2945.3173828125,
+                "ymax": 1344.569580078125,
+                "confidence": 0.28486812114715576,
+                "class": 28,
+                "name": "suitcase"
+            },
+            {
+                "xmin": 1532.1533203125,
+                "ymin": 1344.417724609375,
+                "xmax": 1690.7618408203125,
+                "ymax": 1580.9256591796875,
+                "confidence": 0.27176445722579956,
+                "class": 28,
+                "name": "suitcase"
+            }
+        ],
+        "classification_results": [
+            {
+                "object": "suitcase",
+                "class_id": 519,
+                "class_label": "crate",
+                "score": "7.2%"
+            },
+            {
+                "object": "suitcase",
+                "class_id": 492,
+                "class_label": "chest",
+                "score": "39.9%"
+            },
+            {
+                "object": "suitcase",
+                "class_id": 653,
+                "class_label": "milk can",
+                "score": "2.5%"
+            },
+            {
+                "object": "suitcase",
+                "class_id": 919,
+                "class_label": "street sign",
+                "score": "23.4%"
+            },
+            {
+                "object": "suitcase",
+                "class_id": 565,
+                "class_label": "freight car",
+                "score": "3.6%"
+            },
+            {
+                "object": "suitcase",
+                "class_id": 771,
+                "class_label": "safe",
+                "score": "6.0%"
+            },
+            {
+                "object": "suitcase",
+                "class_id": 858,
+                "class_label": "tile roof",
+                "score": "7.7%"
+            },
+            {
+                "object": "suitcase",
+                "class_id": 492,
+                "class_label": "chest",
+                "score": "15.6%"
+            },
+            {
+                "object": "suitcase",
+                "class_id": 771,
+                "class_label": "safe",
+                "score": "21.3%"
+            },
+            {
+                "object": "suitcase",
+                "class_id": 492,
+                "class_label": "chest",
+                "score": "8.7%"
+            },
+            {
+                "object": "suitcase",
+                "class_id": 458,
+                "class_label": "brass",
+                "score": "2.8%"
+            },
+            {
+                "object": "suitcase",
+                "class_id": 492,
+                "class_label": "chest",
+                "score": "27.7%"
+            },
+            {
+                "object": "suitcase",
+                "class_id": 539,
+                "class_label": "doormat",
+                "score": "14.6%"
+            },
+            {
+                "object": "suitcase",
+                "class_id": 588,
+                "class_label": "hamper",
+                "score": "43.5%"
+            },
+            {
+                "object": "suitcase",
+                "class_id": 588,
+                "class_label": "hamper",
+                "score": "10.5%"
+            },
+            {
+                "object": "handbag",
+                "class_id": 539,
+                "class_label": "doormat",
+                "score": "20.4%"
+            },
+            {
+                "object": "suitcase",
+                "class_id": 492,
+                "class_label": "chest",
+                "score": "54.7%"
+            },
+            {
+                "object": "suitcase",
+                "class_id": 777,
+                "class_label": "scabbard",
+                "score": "37.6%"
+            },
+            {
+                "object": "suitcase",
+                "class_id": 588,
+                "class_label": "hamper",
+                "score": "14.9%"
+            },
+            {
+                "object": "suitcase",
+                "class_id": 519,
+                "class_label": "crate",
+                "score": "3.4%"
+            },
+            {
+                "object": "bench",
+                "class_id": 583,
+                "class_label": "guillotine",
+                "score": "4.4%"
+            },
+            {
+                "object": "suitcase",
+                "class_id": 5,
+                "class_label": "electric ray",
+                "score": "4.6%"
+            },
+            {
+                "object": "suitcase",
+                "class_id": 303,
+                "class_label": "long-horned beetle",
+                "score": "5.7%"
+            }
+        ],
+        "caption": "a pile of luggage sitting on the side of a street "
+    },
+    {
+        "url": "https://raw.githubusercontent.com/SumeetChougule/image-hosting/main/images/image-1.jpg",
+        "detection_results": [
+            {
+                "xmin": 327.6161193847656,
+                "ymin": 432.9754333496094,
+                "xmax": 559.475341796875,
+                "ymax": 741.5669555664062,
+                "confidence": 0.9240471720695496,
+                "class": 75,
+                "name": "vase"
+            }
+        ],
+        "classification_results": [
+            {
+                "object": "vase",
+                "class_id": 883,
+                "class_label": "vase",
+                "score": "30.2%"
+            }
+        ],
+        "caption": "a vase with flowers in it on a table "
+    },
+    {
+        "url": "https://raw.githubusercontent.com/SumeetChougule/image-hosting/main/images/image-10.jpg",
+        "detection_results": [
+            {
+                "xmin": 671.6954956054688,
+                "ymin": 66.13218688964844,
+                "xmax": 1059.89013671875,
+                "ymax": 598.856201171875,
+                "confidence": 0.9098581671714783,
+                "class": 0,
+                "name": "person"
+            },
+            {
+                "xmin": 728.3925170898438,
+                "ymin": 575.5101318359375,
+                "xmax": 856.7962036132812,
+                "ymax": 703.810791015625,
+                "confidence": 0.8943521976470947,
+                "class": 41,
+                "name": "cup"
+            },
+            {
+                "xmin": 184.59500122070312,
+                "ymin": 384.6748962402344,
+                "xmax": 471.5980224609375,
+                "ymax": 643.6803588867188,
+                "confidence": 0.8484893441200256,
+                "class": 16,
+                "name": "dog"
+            },
+            {
+                "xmin": 842.8468627929688,
+                "ymin": 403.32916259765625,
+                "xmax": 1270.6854248046875,
+                "ymax": 651.4312133789062,
+                "confidence": 0.8397703766822815,
+                "class": 63,
+                "name": "laptop"
+            },
+            {
+                "xmin": 192.10330200195312,
+                "ymin": 52.27470016479492,
+                "xmax": 299.4162902832031,
+                "ymax": 167.42652893066406,
+                "confidence": 0.7756418585777283,
+                "class": 58,
+                "name": "potted plant"
+            },
+            {
+                "xmin": 849.6016235351562,
+                "ymin": 6.80072021484375,
+                "xmax": 1223.8232421875,
+                "ymax": 416.52313232421875,
+                "confidence": 0.7510643601417542,
+                "class": 58,
+                "name": "potted plant"
+            },
+            {
+                "xmin": 638.4650268554688,
+                "ymin": 413.3187561035156,
+                "xmax": 686.3611450195312,
+                "ymax": 606.7807006835938,
+                "confidence": 0.6301422715187073,
+                "class": 56,
+                "name": "chair"
+            },
+            {
+                "xmin": 414.0532531738281,
+                "ymin": 354.4127197265625,
+                "xmax": 586.18603515625,
+                "ymax": 621.7247924804688,
+                "confidence": 0.5571590662002563,
+                "class": 56,
+                "name": "chair"
+            },
+            {
+                "xmin": 650.4186401367188,
+                "ymin": 577.4109497070312,
+                "xmax": 766.0294189453125,
+                "ymax": 664.4613037109375,
+                "confidence": 0.5427210927009583,
+                "class": 45,
+                "name": "bowl"
+            },
+            {
+                "xmin": 0.0,
+                "ymin": 569.489013671875,
+                "xmax": 1121.7149658203125,
+                "ymax": 812.0,
+                "confidence": 0.46173232793807983,
+                "class": 60,
+                "name": "dining table"
+            },
+            {
+                "xmin": 531.4048461914062,
+                "ymin": 645.025634765625,
+                "xmax": 656.84619140625,
+                "ymax": 702.6616821289062,
+                "confidence": 0.3215135335922241,
+                "class": 44,
+                "name": "spoon"
+            },
+            {
+                "xmin": 612.5774536132812,
+                "ymin": 90.5142822265625,
+                "xmax": 668.5609130859375,
+                "ymax": 160.15231323242188,
+                "confidence": 0.3014354109764099,
+                "class": 73,
+                "name": "book"
+            }
+        ],
+        "classification_results": [
+            {
+                "object": "person",
+                "class_id": 981,
+                "class_label": "ballplayer",
+                "score": "4.8%"
+            },
+            {
+                "object": "cup",
+                "class_id": 504,
+                "class_label": "coffee mug",
+                "score": "33.4%"
+            },
+            {
+                "object": "dog",
+                "class_id": 167,
+                "class_label": "English foxhound",
+                "score": "20.7%"
+            },
+            {
+                "object": "laptop",
+                "class_id": 664,
+                "class_label": "monitor",
+                "score": "2.2%"
+            },
+            {
+                "object": "potted plant",
+                "class_id": 739,
+                "class_label": "potter's wheel",
+                "score": "4.1%"
+            },
+            {
+                "object": "potted plant",
+                "class_id": 617,
+                "class_label": "lab coat",
+                "score": "3.2%"
+            },
+            {
+                "object": "chair",
+                "class_id": 615,
+                "class_label": "knee pad",
+                "score": "8.4%"
+            },
+            {
+                "object": "chair",
+                "class_id": 167,
+                "class_label": "English foxhound",
+                "score": "10.4%"
+            },
+            {
+                "object": "bowl",
+                "class_id": 551,
+                "class_label": "face powder",
+                "score": "16.2%"
+            },
+            {
+                "object": "dining table",
+                "class_id": 674,
+                "class_label": "mousetrap",
+                "score": "8.1%"
+            },
+            {
+                "object": "spoon",
+                "class_id": 488,
+                "class_label": "chain",
+                "score": "5.5%"
+            },
+            {
+                "object": "book",
+                "class_id": 906,
+                "class_label": "Windsor tie",
+                "score": "5.0%"
+            }
+        ],
+        "caption": "a man sitting at a table with a laptop computer "
+    },
+    {
+        "url": "https://raw.githubusercontent.com/SumeetChougule/image-hosting/main/images/image-11.jpg",
+        "detection_results": [
+            {
+                "xmin": 142.0172119140625,
+                "ymin": 3.002797842025757,
+                "xmax": 590.1513061523438,
+                "ymax": 996.40380859375,
+                "confidence": 0.8636990189552307,
+                "class": 0,
+                "name": "person"
+            },
+            {
+                "xmin": 746.7969970703125,
+                "ymin": 0.7289640307426453,
+                "xmax": 955.0499877929688,
+                "ymax": 795.3790893554688,
+                "confidence": 0.7488226294517517,
+                "class": 0,
+                "name": "person"
+            },
+            {
+                "xmin": 1.6167372465133667,
+                "ymin": 2.5884859561920166,
+                "xmax": 276.191162109375,
+                "ymax": 992.3922729492188,
+                "confidence": 0.7452368140220642,
+                "class": 0,
+                "name": "person"
+            },
+            {
+                "xmin": 910.4542236328125,
+                "ymin": 4.816149711608887,
+                "xmax": 1358.7484130859375,
+                "ymax": 978.5840454101562,
+                "confidence": 0.73850017786026,
+                "class": 0,
+                "name": "person"
+            },
+            {
+                "xmin": 327.6444091796875,
+                "ymin": 795.7252807617188,
+                "xmax": 567.697021484375,
+                "ymax": 994.2769775390625,
+                "confidence": 0.5928797721862793,
+                "class": 26,
+                "name": "handbag"
+            },
+            {
+                "xmin": 1287.6329345703125,
+                "ymin": 0.0,
+                "xmax": 1497.555908203125,
+                "ymax": 743.318115234375,
+                "confidence": 0.5817156434059143,
+                "class": 0,
+                "name": "person"
+            },
+            {
+                "xmin": 615.3988037109375,
+                "ymin": 576.1685791015625,
+                "xmax": 731.8101196289062,
+                "ymax": 992.0422973632812,
+                "confidence": 0.5285714268684387,
+                "class": 26,
+                "name": "handbag"
+            },
+            {
+                "xmin": 1117.3492431640625,
+                "ymin": 541.7301635742188,
+                "xmax": 1348.832275390625,
+                "ymax": 887.5394287109375,
+                "confidence": 0.42832669615745544,
+                "class": 26,
+                "name": "handbag"
+            },
+            {
+                "xmin": 1096.263916015625,
+                "ymin": 0.0,
+                "xmax": 1384.368896484375,
+                "ymax": 747.3768310546875,
+                "confidence": 0.34822168946266174,
+                "class": 0,
+                "name": "person"
+            },
+            {
+                "xmin": 1412.332763671875,
+                "ymin": 49.442203521728516,
+                "xmax": 1500.0,
+                "ymax": 754.5657958984375,
+                "confidence": 0.2995373010635376,
+                "class": 0,
+                "name": "person"
+            },
+            {
+                "xmin": 32.59088897705078,
+                "ymin": 102.6301040649414,
+                "xmax": 97.52567291259766,
+                "ymax": 143.10093688964844,
+                "confidence": 0.26760682463645935,
+                "class": 27,
+                "name": "tie"
+            }
+        ],
+        "classification_results": [
+            {
+                "object": "person",
+                "class_id": 869,
+                "class_label": "trench coat",
+                "score": "9.5%"
+            },
+            {
+                "object": "person",
+                "class_id": 602,
+                "class_label": "horizontal bar",
+                "score": "4.0%"
+            },
+            {
+                "object": "person",
+                "class_id": 841,
+                "class_label": "sweatshirt",
+                "score": "19.6%"
+            },
+            {
+                "object": "person",
+                "class_id": 439,
+                "class_label": "bearskin",
+                "score": "51.3%"
+            },
+            {
+                "object": "handbag",
+                "class_id": 636,
+                "class_label": "mailbag",
+                "score": "38.2%"
+            },
+            {
+                "object": "person",
+                "class_id": 602,
+                "class_label": "horizontal bar",
+                "score": "26.3%"
+            },
+            {
+                "object": "handbag",
+                "class_id": 499,
+                "class_label": "cleaver",
+                "score": "7.4%"
+            },
+            {
+                "object": "handbag",
+                "class_id": 623,
+                "class_label": "letter opener",
+                "score": "9.7%"
+            },
+            {
+                "object": "person",
+                "class_id": 439,
+                "class_label": "bearskin",
+                "score": "14.6%"
+            },
+            {
+                "object": "person",
+                "class_id": 629,
+                "class_label": "lipstick",
+                "score": "5.8%"
+            },
+            {
+                "object": "tie",
+                "class_id": 551,
+                "class_label": "face powder",
+                "score": "4.4%"
+            }
+        ],
+        "caption": "a woman in a hat and a woman in a dress "
+    },
+    {
+        "url": "https://raw.githubusercontent.com/SumeetChougule/image-hosting/main/images/image-12.jpg",
+        "detection_results": [
+            {
+                "xmin": 301.6711730957031,
+                "ymin": 118.31465148925781,
+                "xmax": 485.8513488769531,
+                "ymax": 435.13433837890625,
+                "confidence": 0.9108963012695312,
+                "class": 16,
+                "name": "dog"
+            },
+            {
+                "xmin": 479.114501953125,
+                "ymin": 71.55810546875,
+                "xmax": 639.4385375976562,
+                "ymax": 371.2643127441406,
+                "confidence": 0.7166850566864014,
+                "class": 21,
+                "name": "bear"
+            },
+            {
+                "xmin": 57.428955078125,
+                "ymin": 115.21283721923828,
+                "xmax": 236.75534057617188,
+                "ymax": 453.00067138671875,
+                "confidence": 0.6908130049705505,
+                "class": 21,
+                "name": "bear"
+            },
+            {
+                "xmin": 58.13114547729492,
+                "ymin": 112.45077514648438,
+                "xmax": 237.57760620117188,
+                "ymax": 453.0733642578125,
+                "confidence": 0.47742223739624023,
+                "class": 16,
+                "name": "dog"
+            }
+        ],
+        "classification_results": [
+            {
+                "object": "dog",
+                "class_id": 208,
+                "class_label": "Labrador retriever",
+                "score": "12.8%"
+            },
+            {
+                "object": "bear",
+                "class_id": 205,
+                "class_label": "flat-coated retriever",
+                "score": "33.6%"
+            },
+            {
+                "object": "bear",
+                "class_id": 209,
+                "class_label": "Chesapeake Bay retriever",
+                "score": "15.7%"
+            },
+            {
+                "object": "dog",
+                "class_id": 209,
+                "class_label": "Chesapeake Bay retriever",
+                "score": "15.1%"
+            }
+        ],
+        "caption": "a dog and a dog dog are standing in the grass "
+    },
+    {
+        "url": "https://raw.githubusercontent.com/SumeetChougule/image-hosting/main/images/image-13.jpg",
+        "detection_results": [
+            {
+                "xmin": 392.8247375488281,
+                "ymin": 315.1947021484375,
+                "xmax": 579.8516845703125,
+                "ymax": 554.6700439453125,
+                "confidence": 0.7828066945075989,
+                "class": 0,
+                "name": "person"
+            },
+            {
+                "xmin": 823.0694580078125,
+                "ymin": 259.4469299316406,
+                "xmax": 1129.1143798828125,
+                "ymax": 628.172607421875,
+                "confidence": 0.7797483205795288,
+                "class": 0,
+                "name": "person"
+            },
+            {
+                "xmin": 279.1336669921875,
+                "ymin": 468.0193176269531,
+                "xmax": 662.8995971679688,
+                "ymax": 649.96337890625,
+                "confidence": 0.735281765460968,
+                "class": 8,
+                "name": "boat"
+            },
+            {
+                "xmin": 561.3885498046875,
+                "ymin": 433.0258483886719,
+                "xmax": 1105.0684814453125,
+                "ymax": 935.8482666015625,
+                "confidence": 0.7196272015571594,
+                "class": 8,
+                "name": "boat"
+            },
+            {
+                "xmin": 773.1524047851562,
+                "ymin": 261.79620361328125,
+                "xmax": 911.7913818359375,
+                "ymax": 480.4494934082031,
+                "confidence": 0.608931303024292,
+                "class": 0,
+                "name": "person"
+            },
+            {
+                "xmin": 87.05109405517578,
+                "ymin": 324.1847839355469,
+                "xmax": 428.42633056640625,
+                "ymax": 415.73388671875,
+                "confidence": 0.48788729310035706,
+                "class": 8,
+                "name": "boat"
+            }
+        ],
+        "classification_results": [
+            {
+                "object": "person",
+                "class_id": 693,
+                "class_label": "paddle",
+                "score": "11.2%"
+            },
+            {
+                "object": "person",
+                "class_id": 693,
+                "class_label": "paddle",
+                "score": "74.9%"
+            },
+            {
+                "object": "boat",
+                "class_id": 472,
+                "class_label": "canoe",
+                "score": "44.0%"
+            },
+            {
+                "object": "boat",
+                "class_id": 693,
+                "class_label": "paddle",
+                "score": "26.1%"
+            },
+            {
+                "object": "person",
+                "class_id": 445,
+                "class_label": "bikini",
+                "score": "7.0%"
+            },
+            {
+                "object": "boat",
+                "class_id": 634,
+                "class_label": "lumbermill",
+                "score": "3.9%"
+            }
+        ],
+        "caption": "two people paddle a canoe in the water "
+    },
+    {
+        "url": "https://raw.githubusercontent.com/SumeetChougule/image-hosting/main/images/image-14.jpg",
+        "detection_results": [
+            {
+                "xmin": 765.1273803710938,
+                "ymin": 74.1546630859375,
+                "xmax": 1242.571044921875,
+                "ymax": 740.98876953125,
+                "confidence": 0.9353179335594177,
+                "class": 0,
+                "name": "person"
+            },
+            {
+                "xmin": 492.6256103515625,
+                "ymin": 634.0276489257812,
+                "xmax": 618.0538330078125,
+                "ymax": 749.0643920898438,
+                "confidence": 0.9116296768188477,
+                "class": 32,
+                "name": "sports ball"
+            },
+            {
+                "xmin": 538.4091186523438,
+                "ymin": 351.17852783203125,
+                "xmax": 642.9334106445312,
+                "ymax": 644.2070922851562,
+                "confidence": 0.8182291388511658,
+                "class": 0,
+                "name": "person"
+            },
+            {
+                "xmin": 948.212890625,
+                "ymin": 368.2803955078125,
+                "xmax": 1022.8541259765625,
+                "ymax": 627.431396484375,
+                "confidence": 0.5843765735626221,
+                "class": 0,
+                "name": "person"
+            },
+            {
+                "xmin": 912.75927734375,
+                "ymin": 301.59246826171875,
+                "xmax": 1047.422607421875,
+                "ymax": 615.8782958984375,
+                "confidence": 0.49456122517585754,
+                "class": 0,
+                "name": "person"
+            }
+        ],
+        "classification_results": [
+            {
+                "object": "person",
+                "class_id": 805,
+                "class_label": "soccer ball",
+                "score": "60.9%"
+            },
+            {
+                "object": "sports ball",
+                "class_id": 805,
+                "class_label": "soccer ball",
+                "score": "13.2%"
+            },
+            {
+                "object": "person",
+                "class_id": 602,
+                "class_label": "horizontal bar",
+                "score": "6.1%"
+            },
+            {
+                "object": "person",
+                "class_id": 503,
+                "class_label": "cocktail shaker",
+                "score": "5.4%"
+            },
+            {
+                "object": "person",
+                "class_id": 602,
+                "class_label": "horizontal bar",
+                "score": "5.3%"
+            }
+        ],
+        "caption": "a boy is running towards a soccer ball "
+    },
+    {
+        "url": "https://raw.githubusercontent.com/SumeetChougule/image-hosting/main/images/image-15.jpg",
+        "detection_results": [],
+        "classification_results": [],
+        "caption": "a large brown and white striped animal in a body of water "
+    },
+    {
+        "url": "https://raw.githubusercontent.com/SumeetChougule/image-hosting/main/images/image-18.jpg",
+        "detection_results": [
+            {
+                "xmin": 206.30856323242188,
+                "ymin": 80.4161148071289,
+                "xmax": 274.0938720703125,
+                "ymax": 166.79086303710938,
+                "confidence": 0.8670654296875,
+                "class": 41,
+                "name": "cup"
+            },
+            {
+                "xmin": 137.5499725341797,
+                "ymin": 145.00120544433594,
+                "xmax": 168.4486846923828,
+                "ymax": 169.79135131835938,
+                "confidence": 0.7304896712303162,
+                "class": 54,
+                "name": "donut"
+            },
+            {
+                "xmin": 9.153119087219238,
+                "ymin": 32.337257385253906,
+                "xmax": 76.32838439941406,
+                "ymax": 116.10862731933594,
+                "confidence": 0.707381546497345,
+                "class": 0,
+                "name": "person"
+            },
+            {
+                "xmin": 145.75680541992188,
+                "ymin": 66.13353729248047,
+                "xmax": 196.94857788085938,
+                "ymax": 148.73989868164062,
+                "confidence": 0.6399145126342773,
+                "class": 41,
+                "name": "cup"
+            },
+            {
+                "xmin": 167.3624267578125,
+                "ymin": 152.8306427001953,
+                "xmax": 202.49337768554688,
+                "ymax": 178.86767578125,
+                "confidence": 0.5964688658714294,
+                "class": 54,
+                "name": "donut"
+            },
+            {
+                "xmin": 104.18113708496094,
+                "ymin": 57.209144592285156,
+                "xmax": 151.299560546875,
+                "ymax": 145.44320678710938,
+                "confidence": 0.3176429271697998,
+                "class": 41,
+                "name": "cup"
+            },
+            {
+                "xmin": 68.63365936279297,
+                "ymin": 41.061954498291016,
+                "xmax": 111.87979125976562,
+                "ymax": 132.3952178955078,
+                "confidence": 0.3173579275608063,
+                "class": 41,
+                "name": "cup"
+            },
+            {
+                "xmin": 194.96849060058594,
+                "ymin": 0.0,
+                "xmax": 255.43643188476562,
+                "ymax": 26.90003204345703,
+                "confidence": 0.2983611524105072,
+                "class": 62,
+                "name": "tv"
+            },
+            {
+                "xmin": 205.94517517089844,
+                "ymin": 164.18890380859375,
+                "xmax": 246.68283081054688,
+                "ymax": 182.78475952148438,
+                "confidence": 0.26234760880470276,
+                "class": 54,
+                "name": "donut"
+            }
+        ],
+        "classification_results": [
+            {
+                "object": "cup",
+                "class_id": 838,
+                "class_label": "sunscreen",
+                "score": "7.1%"
+            },
+            {
+                "object": "donut",
+                "class_id": 551,
+                "class_label": "face powder",
+                "score": "20.3%"
+            },
+            {
+                "object": "person",
+                "class_id": 906,
+                "class_label": "Windsor tie",
+                "score": "13.1%"
+            },
+            {
+                "object": "cup",
+                "class_id": 838,
+                "class_label": "sunscreen",
+                "score": "31.3%"
+            },
+            {
+                "object": "donut",
+                "class_id": 426,
+                "class_label": "barometer",
+                "score": "9.2%"
+            },
+            {
+                "object": "cup",
+                "class_id": 901,
+                "class_label": "whiskey jug",
+                "score": "28.9%"
+            },
+            {
+                "object": "cup",
+                "class_id": 901,
+                "class_label": "whiskey jug",
+                "score": "40.5%"
+            },
+            {
+                "object": "tv",
+                "class_id": 798,
+                "class_label": "slide rule",
+                "score": "18.2%"
+            },
+            {
+                "object": "donut",
+                "class_id": 541,
+                "class_label": "drum",
+                "score": "7.3%"
+            }
+        ],
+        "caption": "a man is standing in front of a counter filled with cups of coffee "
+    },
+    {
+        "url": "https://raw.githubusercontent.com/SumeetChougule/image-hosting/main/images/image-19.jpg",
+        "detection_results": [
+            {
+                "xmin": 436.66839599609375,
+                "ymin": 533.4880981445312,
+                "xmax": 493.5379943847656,
+                "ymax": 695.1243286132812,
+                "confidence": 0.8917461633682251,
+                "class": 0,
+                "name": "person"
+            },
+            {
+                "xmin": 214.7718048095703,
+                "ymin": 466.39556884765625,
+                "xmax": 285.5589294433594,
+                "ymax": 507.07452392578125,
+                "confidence": 0.5287026166915894,
+                "class": 2,
+                "name": "car"
+            },
+            {
+                "xmin": 936.3362426757812,
+                "ymin": 488.9273376464844,
+                "xmax": 956.9140014648438,
+                "ymax": 501.3591613769531,
+                "confidence": 0.5047070384025574,
+                "class": 2,
+                "name": "car"
+            },
+            {
+                "xmin": 0.26416540145874023,
+                "ymin": 454.15960693359375,
+                "xmax": 67.52203369140625,
+                "ymax": 479.5104675292969,
+                "confidence": 0.3726987838745117,
+                "class": 2,
+                "name": "car"
+            },
+            {
+                "xmin": 284.3859558105469,
+                "ymin": 475.5164489746094,
+                "xmax": 321.1158752441406,
+                "ymax": 500.3877868652344,
+                "confidence": 0.34068435430526733,
+                "class": 2,
+                "name": "car"
+            },
+            {
+                "xmin": 77.00296020507812,
+                "ymin": 466.8025207519531,
+                "xmax": 156.54554748535156,
+                "ymax": 503.92327880859375,
+                "confidence": 0.2987365424633026,
+                "class": 2,
+                "name": "car"
+            },
+            {
+                "xmin": 287.0224609375,
+                "ymin": 477.301025390625,
+                "xmax": 350.1487121582031,
+                "ymax": 503.9129333496094,
+                "confidence": 0.2963733971118927,
+                "class": 2,
+                "name": "car"
+            },
+            {
+                "xmin": 58.46357345581055,
+                "ymin": 475.0384826660156,
+                "xmax": 72.5353012084961,
+                "ymax": 508.4975891113281,
+                "confidence": 0.25721168518066406,
+                "class": 0,
+                "name": "person"
+            }
+        ],
+        "classification_results": [
+            {
+                "object": "person",
+                "class_id": 465,
+                "class_label": "bulletproof vest",
+                "score": "9.0%"
+            },
+            {
+                "object": "car",
+                "class_id": 675,
+                "class_label": "moving van",
+                "score": "35.7%"
+            },
+            {
+                "object": "car",
+                "class_id": 653,
+                "class_label": "milk can",
+                "score": "7.0%"
+            },
+            {
+                "object": "car",
+                "class_id": 795,
+                "class_label": "ski",
+                "score": "14.3%"
+            },
+            {
+                "object": "car",
+                "class_id": 527,
+                "class_label": "desktop computer",
+                "score": "6.1%"
+            },
+            {
+                "object": "car",
+                "class_id": 675,
+                "class_label": "moving van",
+                "score": "59.9%"
+            },
+            {
+                "object": "car",
+                "class_id": 675,
+                "class_label": "moving van",
+                "score": "8.8%"
+            },
+            {
+                "object": "person",
+                "class_id": 653,
+                "class_label": "milk can",
+                "score": "9.9%"
+            }
+        ],
+        "caption": "a young boy crossing a street with a stop sign "
+    },
+    {
+        "url": "https://raw.githubusercontent.com/SumeetChougule/image-hosting/main/images/image-2.jpg",
+        "detection_results": [
+            {
+                "xmin": 276.80474853515625,
+                "ymin": 545.3712768554688,
+                "xmax": 879.7652587890625,
+                "ymax": 1452.60595703125,
+                "confidence": 0.8986276984214783,
+                "class": 7,
+                "name": "truck"
+            },
+            {
+                "xmin": 945.1698608398438,
+                "ymin": 794.5209350585938,
+                "xmax": 1223.0462646484375,
+                "ymax": 1040.251953125,
+                "confidence": 0.8796967267990112,
+                "class": 2,
+                "name": "car"
+            },
+            {
+                "xmin": 1204.3994140625,
+                "ymin": 634.1259765625,
+                "xmax": 1993.4217529296875,
+                "ymax": 1608.9525146484375,
+                "confidence": 0.8727191686630249,
+                "class": 7,
+                "name": "truck"
+            },
+            {
+                "xmin": 1109.37353515625,
+                "ymin": 8.694768905639648,
+                "xmax": 1456.35693359375,
+                "ymax": 390.3030700683594,
+                "confidence": 0.7773516178131104,
+                "class": 7,
+                "name": "truck"
+            },
+            {
+                "xmin": 1004.1517944335938,
+                "ymin": 683.2760620117188,
+                "xmax": 1249.101806640625,
+                "ymax": 870.57861328125,
+                "confidence": 0.7530714273452759,
+                "class": 2,
+                "name": "car"
+            },
+            {
+                "xmin": 1094.36376953125,
+                "ymin": 601.4793701171875,
+                "xmax": 1263.694580078125,
+                "ymax": 750.7569580078125,
+                "confidence": 0.704068660736084,
+                "class": 2,
+                "name": "car"
+            },
+            {
+                "xmin": 1338.5234375,
+                "ymin": 422.9988708496094,
+                "xmax": 1429.190673828125,
+                "ymax": 584.422119140625,
+                "confidence": 0.6467522382736206,
+                "class": 2,
+                "name": "car"
+            },
+            {
+                "xmin": 1113.755859375,
+                "ymin": 342.06494140625,
+                "xmax": 1368.6209716796875,
+                "ymax": 641.7596435546875,
+                "confidence": 0.5700623393058777,
+                "class": 2,
+                "name": "car"
+            }
+        ],
+        "classification_results": [
+            {
+                "object": "truck",
+                "class_id": 569,
+                "class_label": "garbage truck",
+                "score": "26.6%"
+            },
+            {
+                "object": "car",
+                "class_id": 581,
+                "class_label": "grille",
+                "score": "33.8%"
+            },
+            {
+                "object": "truck",
+                "class_id": 675,
+                "class_label": "moving van",
+                "score": "21.5%"
+            },
+            {
+                "object": "truck",
+                "class_id": 867,
+                "class_label": "trailer truck",
+                "score": "60.9%"
+            },
+            {
+                "object": "car",
+                "class_id": 656,
+                "class_label": "minivan",
+                "score": "12.3%"
+            },
+            {
+                "object": "car",
+                "class_id": 468,
+                "class_label": "cab",
+                "score": "10.0%"
+            },
+            {
+                "object": "car",
+                "class_id": 461,
+                "class_label": "breastplate",
+                "score": "15.4%"
+            },
+            {
+                "object": "car",
+                "class_id": 654,
+                "class_label": "minibus",
+                "score": "28.7%"
+            }
+        ],
+        "caption": "a large truck driving down a highway "
+    },
+    {
+        "url": "https://raw.githubusercontent.com/SumeetChougule/image-hosting/main/images/image-20.jpg",
+        "detection_results": [
+            {
+                "xmin": 254.50424194335938,
+                "ymin": 800.9490356445312,
+                "xmax": 1576.6815185546875,
+                "ymax": 2034.21142578125,
+                "confidence": 0.9188346862792969,
+                "class": 63,
+                "name": "laptop"
+            },
+            {
+                "xmin": 1100.99609375,
+                "ymin": 190.9194793701172,
+                "xmax": 2247.89453125,
+                "ymax": 1020.7935791015625,
+                "confidence": 0.8839545249938965,
+                "class": 62,
+                "name": "tv"
+            },
+            {
+                "xmin": 1648.0296630859375,
+                "ymin": 1305.992431640625,
+                "xmax": 1851.7337646484375,
+                "ymax": 1442.0030517578125,
+                "confidence": 0.7212166786193848,
+                "class": 64,
+                "name": "mouse"
+            },
+            {
+                "xmin": 1615.586181640625,
+                "ymin": 1132.5980224609375,
+                "xmax": 4032.0,
+                "ymax": 3020.921875,
+                "confidence": 0.7138112187385559,
+                "class": 56,
+                "name": "chair"
+            },
+            {
+                "xmin": 2510.873779296875,
+                "ymin": 805.99755859375,
+                "xmax": 2683.508544921875,
+                "ymax": 924.2434692382812,
+                "confidence": 0.2912520468235016,
+                "class": 64,
+                "name": "mouse"
+            },
+            {
+                "xmin": 253.11505126953125,
+                "ymin": 801.675537109375,
+                "xmax": 1597.27783203125,
+                "ymax": 2055.701904296875,
+                "confidence": 0.2836697995662689,
+                "class": 66,
+                "name": "keyboard"
+            }
+        ],
+        "classification_results": [
+            {
+                "object": "laptop",
+                "class_id": 620,
+                "class_label": "laptop",
+                "score": "20.8%"
+            },
+            {
+                "object": "tv",
+                "class_id": 664,
+                "class_label": "monitor",
+                "score": "69.1%"
+            },
+            {
+                "object": "mouse",
+                "class_id": 518,
+                "class_label": "crash helmet",
+                "score": "21.7%"
+            },
+            {
+                "object": "chair",
+                "class_id": 423,
+                "class_label": "barber chair",
+                "score": "4.6%"
+            },
+            {
+                "object": "mouse",
+                "class_id": 746,
+                "class_label": "puck",
+                "score": "23.9%"
+            },
+            {
+                "object": "keyboard",
+                "class_id": 681,
+                "class_label": "notebook",
+                "score": "19.0%"
+            }
+        ],
+        "caption": "a desk with a laptop computer and a monitor "
+    },
+    {
+        "url": "https://raw.githubusercontent.com/SumeetChougule/image-hosting/main/images/image-21.jpg",
+        "detection_results": [
+            {
+                "xmin": 561.0982055664062,
+                "ymin": 477.7478332519531,
+                "xmax": 844.1446533203125,
+                "ymax": 984.6997680664062,
+                "confidence": 0.861420214176178,
+                "class": 56,
+                "name": "chair"
+            },
+            {
+                "xmin": 0.0,
+                "ymin": 311.7793884277344,
+                "xmax": 135.01048278808594,
+                "ymax": 630.3629760742188,
+                "confidence": 0.8611928224563599,
+                "class": 56,
+                "name": "chair"
+            },
+            {
+                "xmin": 802.95556640625,
+                "ymin": 680.5314331054688,
+                "xmax": 1052.183349609375,
+                "ymax": 990.1004028320312,
+                "confidence": 0.8211372494697571,
+                "class": 56,
+                "name": "chair"
+            },
+            {
+                "xmin": 1121.172119140625,
+                "ymin": 416.233154296875,
+                "xmax": 1483.3262939453125,
+                "ymax": 789.3772583007812,
+                "confidence": 0.8030012845993042,
+                "class": 56,
+                "name": "chair"
+            },
+            {
+                "xmin": 871.570068359375,
+                "ymin": 428.2169189453125,
+                "xmax": 926.7506103515625,
+                "ymax": 515.8281860351562,
+                "confidence": 0.7797356247901917,
+                "class": 41,
+                "name": "cup"
+            },
+            {
+                "xmin": 0.0,
+                "ymin": 629.140380859375,
+                "xmax": 141.9759063720703,
+                "ymax": 973.3375854492188,
+                "confidence": 0.7450500130653381,
+                "class": 56,
+                "name": "chair"
+            },
+            {
+                "xmin": 748.9984130859375,
+                "ymin": 369.0934753417969,
+                "xmax": 792.7360229492188,
+                "ymax": 475.8164367675781,
+                "confidence": 0.719399631023407,
+                "class": 39,
+                "name": "bottle"
+            },
+            {
+                "xmin": 70.76708221435547,
+                "ymin": 68.55626678466797,
+                "xmax": 584.7547607421875,
+                "ymax": 949.644775390625,
+                "confidence": 0.6951497793197632,
+                "class": 0,
+                "name": "person"
+            },
+            {
+                "xmin": 923.022705078125,
+                "ymin": 114.92257690429688,
+                "xmax": 1431.0465087890625,
+                "ymax": 796.8721923828125,
+                "confidence": 0.6666722893714905,
+                "class": 0,
+                "name": "person"
+            },
+            {
+                "xmin": 75.67923736572266,
+                "ymin": 703.19140625,
+                "xmax": 558.6296997070312,
+                "ymax": 993.2183227539062,
+                "confidence": 0.6441733241081238,
+                "class": 56,
+                "name": "chair"
+            },
+            {
+                "xmin": 446.408935546875,
+                "ymin": 0.0,
+                "xmax": 621.9227294921875,
+                "ymax": 102.83546447753906,
+                "confidence": 0.6304060816764832,
+                "class": 2,
+                "name": "car"
+            },
+            {
+                "xmin": 667.9803466796875,
+                "ymin": 437.57476806640625,
+                "xmax": 718.7850952148438,
+                "ymax": 477.8036804199219,
+                "confidence": 0.5839319825172424,
+                "class": 41,
+                "name": "cup"
+            },
+            {
+                "xmin": 810.2671508789062,
+                "ymin": 361.31939697265625,
+                "xmax": 856.201171875,
+                "ymax": 482.5389404296875,
+                "confidence": 0.5822885036468506,
+                "class": 39,
+                "name": "bottle"
+            },
+            {
+                "xmin": 1120.3021240234375,
+                "ymin": 320.5987548828125,
+                "xmax": 1212.81787109375,
+                "ymax": 434.0328063964844,
+                "confidence": 0.5803084373474121,
+                "class": 56,
+                "name": "chair"
+            },
+            {
+                "xmin": 1012.0930786132812,
+                "ymin": 164.8836212158203,
+                "xmax": 1040.619384765625,
+                "ymax": 255.8358612060547,
+                "confidence": 0.5581521391868591,
+                "class": 39,
+                "name": "bottle"
+            },
+            {
+                "xmin": 1420.345703125,
+                "ymin": 227.9625244140625,
+                "xmax": 1460.1739501953125,
+                "ymax": 332.6501159667969,
+                "confidence": 0.501514732837677,
+                "class": 39,
+                "name": "bottle"
+            },
+            {
+                "xmin": 429.8425598144531,
+                "ymin": 264.13665771484375,
+                "xmax": 518.671630859375,
+                "ymax": 318.2221374511719,
+                "confidence": 0.4785456955432892,
+                "class": 56,
+                "name": "chair"
+            },
+            {
+                "xmin": 479.2135925292969,
+                "ymin": 300.1831359863281,
+                "xmax": 570.9708862304688,
+                "ymax": 415.8492736816406,
+                "confidence": 0.45648685097694397,
+                "class": 56,
+                "name": "chair"
+            },
+            {
+                "xmin": 989.3644409179688,
+                "ymin": 186.9149627685547,
+                "xmax": 1014.1666870117188,
+                "ymax": 268.00323486328125,
+                "confidence": 0.4317837953567505,
+                "class": 39,
+                "name": "bottle"
+            },
+            {
+                "xmin": 996.3782348632812,
+                "ymin": 174.66246032714844,
+                "xmax": 1033.7523193359375,
+                "ymax": 265.4837646484375,
+                "confidence": 0.4216304123401642,
+                "class": 39,
+                "name": "bottle"
+            },
+            {
+                "xmin": 1017.6195068359375,
+                "ymin": 780.6201782226562,
+                "xmax": 1466.0218505859375,
+                "ymax": 995.0196533203125,
+                "confidence": 0.32369425892829895,
+                "class": 56,
+                "name": "chair"
+            },
+            {
+                "xmin": 1369.704345703125,
+                "ymin": 330.52392578125,
+                "xmax": 1500.0,
+                "ymax": 447.25323486328125,
+                "confidence": 0.31267380714416504,
+                "class": 60,
+                "name": "dining table"
+            },
+            {
+                "xmin": 745.0838623046875,
+                "ymin": 364.6129455566406,
+                "xmax": 854.7584838867188,
+                "ymax": 477.89141845703125,
+                "confidence": 0.28676941990852356,
+                "class": 39,
+                "name": "bottle"
+            },
+            {
+                "xmin": 820.6051025390625,
+                "ymin": 370.3877258300781,
+                "xmax": 987.363525390625,
+                "ymax": 444.468994140625,
+                "confidence": 0.2677200138568878,
+                "class": 56,
+                "name": "chair"
+            },
+            {
+                "xmin": 1388.9241943359375,
+                "ymin": 420.15032958984375,
+                "xmax": 1488.1375732421875,
+                "ymax": 755.75390625,
+                "confidence": 0.2594665288925171,
+                "class": 56,
+                "name": "chair"
+            }
+        ],
+        "classification_results": [
+            {
+                "object": "chair",
+                "class_id": 532,
+                "class_label": "dining table",
+                "score": "14.2%"
+            },
+            {
+                "object": "chair",
+                "class_id": 630,
+                "class_label": "Loafer",
+                "score": "2.3%"
+            },
+            {
+                "object": "chair",
+                "class_id": 704,
+                "class_label": "parking meter",
+                "score": "3.3%"
+            },
+            {
+                "object": "chair",
+                "class_id": 424,
+                "class_label": "barbershop",
+                "score": "4.7%"
+            },
+            {
+                "object": "cup",
+                "class_id": 653,
+                "class_label": "milk can",
+                "score": "18.2%"
+            },
+            {
+                "object": "chair",
+                "class_id": 535,
+                "class_label": "disk brake",
+                "score": "3.0%"
+            },
+            {
+                "object": "bottle",
+                "class_id": 653,
+                "class_label": "milk can",
+                "score": "32.2%"
+            },
+            {
+                "object": "person",
+                "class_id": 834,
+                "class_label": "suit",
+                "score": "10.0%"
+            },
+            {
+                "object": "person",
+                "class_id": 762,
+                "class_label": "restaurant",
+                "score": "15.3%"
+            },
+            {
+                "object": "chair",
+                "class_id": 541,
+                "class_label": "drum",
+                "score": "3.8%"
+            },
+            {
+                "object": "car",
+                "class_id": 80,
+                "class_label": "black grouse",
+                "score": "5.0%"
+            },
+            {
+                "object": "cup",
+                "class_id": 653,
+                "class_label": "milk can",
+                "score": "7.6%"
+            },
+            {
+                "object": "bottle",
+                "class_id": 501,
+                "class_label": "cloak",
+                "score": "20.3%"
+            },
+            {
+                "object": "chair",
+                "class_id": 906,
+                "class_label": "Windsor tie",
+                "score": "2.5%"
+            },
+            {
+                "object": "bottle",
+                "class_id": 653,
+                "class_label": "milk can",
+                "score": "6.6%"
+            },
+            {
+                "object": "bottle",
+                "class_id": 901,
+                "class_label": "whiskey jug",
+                "score": "23.2%"
+            },
+            {
+                "object": "chair",
+                "class_id": 206,
+                "class_label": "curly-coated retriever",
+                "score": "3.9%"
+            },
+            {
+                "object": "chair",
+                "class_id": 615,
+                "class_label": "knee pad",
+                "score": "8.6%"
+            },
+            {
+                "object": "bottle",
+                "class_id": 653,
+                "class_label": "milk can",
+                "score": "7.2%"
+            },
+            {
+                "object": "bottle",
+                "class_id": 653,
+                "class_label": "milk can",
+                "score": "34.0%"
+            },
+            {
+                "object": "chair",
+                "class_id": 111,
+                "class_label": "nematode",
+                "score": "48.5%"
+            },
+            {
+                "object": "dining table",
+                "class_id": 296,
+                "class_label": "ice bear",
+                "score": "5.0%"
+            },
+            {
+                "object": "bottle",
+                "class_id": 737,
+                "class_label": "pop bottle",
+                "score": "34.5%"
+            },
+            {
+                "object": "chair",
+                "class_id": 680,
+                "class_label": "nipple",
+                "score": "4.7%"
+            },
+            {
+                "object": "chair",
+                "class_id": 885,
+                "class_label": "velvet",
+                "score": "14.5%"
+            }
+        ],
+        "caption": "a woman sitting at a table with a man "
+    },
+    {
+        "url": "https://raw.githubusercontent.com/SumeetChougule/image-hosting/main/images/image-22.jpg",
+        "detection_results": [
+            {
+                "xmin": 910.8554077148438,
+                "ymin": 194.87109375,
+                "xmax": 1770.904541015625,
+                "ymax": 1010.477294921875,
+                "confidence": 0.9198132157325745,
+                "class": 0,
+                "name": "person"
+            },
+            {
+                "xmin": 36.24654006958008,
+                "ymin": 320.2208557128906,
+                "xmax": 417.1126403808594,
+                "ymax": 767.484375,
+                "confidence": 0.9116725921630859,
+                "class": 0,
+                "name": "person"
+            },
+            {
+                "xmin": 1006.9566650390625,
+                "ymin": 281.42913818359375,
+                "xmax": 1042.4381103515625,
+                "ymax": 316.2030029296875,
+                "confidence": 0.8358336091041565,
+                "class": 32,
+                "name": "sports ball"
+            },
+            {
+                "xmin": 1309.8858642578125,
+                "ymin": 246.6083221435547,
+                "xmax": 1565.5865478515625,
+                "ymax": 392.1595458984375,
+                "confidence": 0.828767716884613,
+                "class": 38,
+                "name": "tennis racket"
+            },
+            {
+                "xmin": 969.3486328125,
+                "ymin": 127.98836517333984,
+                "xmax": 1058.9375,
+                "ymax": 226.04257202148438,
+                "confidence": 0.7132349610328674,
+                "class": 0,
+                "name": "person"
+            },
+            {
+                "xmin": 726.4360961914062,
+                "ymin": 111.05518341064453,
+                "xmax": 827.6965942382812,
+                "ymax": 222.8937530517578,
+                "confidence": 0.5671954154968262,
+                "class": 0,
+                "name": "person"
+            },
+            {
+                "xmin": 1605.8475341796875,
+                "ymin": 342.5102233886719,
+                "xmax": 1714.9556884765625,
+                "ymax": 534.8848266601562,
+                "confidence": 0.544556200504303,
+                "class": 0,
+                "name": "person"
+            },
+            {
+                "xmin": 1116.0223388671875,
+                "ymin": 93.47456359863281,
+                "xmax": 1215.1854248046875,
+                "ymax": 205.53868103027344,
+                "confidence": 0.5379444360733032,
+                "class": 0,
+                "name": "person"
+            },
+            {
+                "xmin": 1248.0399169921875,
+                "ymin": 129.65638732910156,
+                "xmax": 1339.7841796875,
+                "ymax": 228.6094207763672,
+                "confidence": 0.535179615020752,
+                "class": 0,
+                "name": "person"
+            },
+            {
+                "xmin": 879.8624267578125,
+                "ymin": 110.65272521972656,
+                "xmax": 966.6077270507812,
+                "ymax": 220.34678649902344,
+                "confidence": 0.5254691243171692,
+                "class": 0,
+                "name": "person"
+            },
+            {
+                "xmin": 16.359363555908203,
+                "ymin": 332.9736633300781,
+                "xmax": 129.58230590820312,
+                "ymax": 662.3274536132812,
+                "confidence": 0.510944664478302,
+                "class": 0,
+                "name": "person"
+            },
+            {
+                "xmin": 876.8184814453125,
+                "ymin": 59.845611572265625,
+                "xmax": 969.9534301757812,
+                "ymax": 177.0632781982422,
+                "confidence": 0.4867646396160126,
+                "class": 0,
+                "name": "person"
+            },
+            {
+                "xmin": 13.033890724182129,
+                "ymin": 97.86087799072266,
+                "xmax": 106.1796646118164,
+                "ymax": 197.6304168701172,
+                "confidence": 0.3317697048187256,
+                "class": 0,
+                "name": "person"
+            },
+            {
+                "xmin": 516.838134765625,
+                "ymin": 122.89190673828125,
+                "xmax": 590.015625,
+                "ymax": 209.28538513183594,
+                "confidence": 0.32849323749542236,
+                "class": 0,
+                "name": "person"
+            },
+            {
+                "xmin": 809.74169921875,
+                "ymin": 121.22151947021484,
+                "xmax": 903.164306640625,
+                "ymax": 222.6100311279297,
+                "confidence": 0.2873242199420929,
+                "class": 0,
+                "name": "person"
+            },
+            {
+                "xmin": 86.91765594482422,
+                "ymin": 98.54345703125,
+                "xmax": 197.1042022705078,
+                "ymax": 201.3881378173828,
+                "confidence": 0.28288811445236206,
+                "class": 0,
+                "name": "person"
+            },
+            {
+                "xmin": 1449.43212890625,
+                "ymin": 148.65472412109375,
+                "xmax": 1519.1419677734375,
+                "ymax": 233.9853515625,
+                "confidence": 0.25107693672180176,
+                "class": 0,
+                "name": "person"
+            }
+        ],
+        "classification_results": [
+            {
+                "object": "person",
+                "class_id": 752,
+                "class_label": "racket",
+                "score": "43.4%"
+            },
+            {
+                "object": "person",
+                "class_id": 890,
+                "class_label": "volleyball",
+                "score": "26.3%"
+            },
+            {
+                "object": "sports ball",
+                "class_id": 852,
+                "class_label": "tennis ball",
+                "score": "16.2%"
+            },
+            {
+                "object": "tennis racket",
+                "class_id": 752,
+                "class_label": "racket",
+                "score": "46.3%"
+            },
+            {
+                "object": "person",
+                "class_id": 602,
+                "class_label": "horizontal bar",
+                "score": "5.7%"
+            },
+            {
+                "object": "person",
+                "class_id": 602,
+                "class_label": "horizontal bar",
+                "score": "18.2%"
+            },
+            {
+                "object": "person",
+                "class_id": 702,
+                "class_label": "parallel bars",
+                "score": "13.5%"
+            },
+            {
+                "object": "person",
+                "class_id": 602,
+                "class_label": "horizontal bar",
+                "score": "4.5%"
+            },
+            {
+                "object": "person",
+                "class_id": 602,
+                "class_label": "horizontal bar",
+                "score": "22.6%"
+            },
+            {
+                "object": "person",
+                "class_id": 906,
+                "class_label": "Windsor tie",
+                "score": "7.0%"
+            },
+            {
+                "object": "person",
+                "class_id": 798,
+                "class_label": "slide rule",
+                "score": "6.7%"
+            },
+            {
+                "object": "person",
+                "class_id": 602,
+                "class_label": "horizontal bar",
+                "score": "4.3%"
+            },
+            {
+                "object": "person",
+                "class_id": 602,
+                "class_label": "horizontal bar",
+                "score": "3.6%"
+            },
+            {
+                "object": "person",
+                "class_id": 641,
+                "class_label": "maraca",
+                "score": "5.6%"
+            },
+            {
+                "object": "person",
+                "class_id": 602,
+                "class_label": "horizontal bar",
+                "score": "14.3%"
+            },
+            {
+                "object": "person",
+                "class_id": 602,
+                "class_label": "horizontal bar",
+                "score": "20.9%"
+            },
+            {
+                "object": "person",
+                "class_id": 80,
+                "class_label": "black grouse",
+                "score": "3.4%"
+            }
+        ],
+        "caption": "a tennis player is jumping to hit the ball "
+    },
+    {
+        "url": "https://raw.githubusercontent.com/SumeetChougule/image-hosting/main/images/image-23.jpg",
+        "detection_results": [
+            {
+                "xmin": 1006.31591796875,
+                "ymin": 4.233863830566406,
+                "xmax": 1181.95166015625,
+                "ymax": 235.26498413085938,
+                "confidence": 0.9085308313369751,
+                "class": 0,
+                "name": "person"
+            },
+            {
+                "xmin": 429.9268798828125,
+                "ymin": 243.995361328125,
+                "xmax": 525.759033203125,
+                "ymax": 316.6766357421875,
+                "confidence": 0.8955658078193665,
+                "class": 32,
+                "name": "sports ball"
+            },
+            {
+                "xmin": 426.3757629394531,
+                "ymin": 1.0213088989257812,
+                "xmax": 623.9752807617188,
+                "ymax": 223.77377319335938,
+                "confidence": 0.894989013671875,
+                "class": 0,
+                "name": "person"
+            },
+            {
+                "xmin": 538.31689453125,
+                "ymin": 225.93753051757812,
+                "xmax": 620.0318603515625,
+                "ymax": 280.8072204589844,
+                "confidence": 0.8900607228279114,
+                "class": 32,
+                "name": "sports ball"
+            },
+            {
+                "xmin": 1029.8804931640625,
+                "ymin": 239.92041015625,
+                "xmax": 1126.4517822265625,
+                "ymax": 319.2445068359375,
+                "confidence": 0.8840827941894531,
+                "class": 32,
+                "name": "sports ball"
+            },
+            {
+                "xmin": 535.1783447265625,
+                "ymin": 336.7448425292969,
+                "xmax": 600.749267578125,
+                "ymax": 380.7683410644531,
+                "confidence": 0.8828321099281311,
+                "class": 32,
+                "name": "sports ball"
+            },
+            {
+                "xmin": 701.1390380859375,
+                "ymin": 224.38424682617188,
+                "xmax": 784.30908203125,
+                "ymax": 273.3129577636719,
+                "confidence": 0.8528598546981812,
+                "class": 32,
+                "name": "sports ball"
+            },
+            {
+                "xmin": 101.60182189941406,
+                "ymin": 2.0269851684570312,
+                "xmax": 218.87644958496094,
+                "ymax": 211.80899047851562,
+                "confidence": 0.5525006055831909,
+                "class": 0,
+                "name": "person"
+            }
+        ],
+        "classification_results": [
+            {
+                "object": "person",
+                "class_id": 805,
+                "class_label": "soccer ball",
+                "score": "3.6%"
+            },
+            {
+                "object": "sports ball",
+                "class_id": 522,
+                "class_label": "croquet ball",
+                "score": "88.8%"
+            },
+            {
+                "object": "person",
+                "class_id": 805,
+                "class_label": "soccer ball",
+                "score": "2.7%"
+            },
+            {
+                "object": "sports ball",
+                "class_id": 522,
+                "class_label": "croquet ball",
+                "score": "11.5%"
+            },
+            {
+                "object": "sports ball",
+                "class_id": 522,
+                "class_label": "croquet ball",
+                "score": "59.9%"
+            },
+            {
+                "object": "sports ball",
+                "class_id": 574,
+                "class_label": "golf ball",
+                "score": "66.1%"
+            },
+            {
+                "object": "sports ball",
+                "class_id": 522,
+                "class_label": "croquet ball",
+                "score": "4.2%"
+            },
+            {
+                "object": "person",
+                "class_id": 615,
+                "class_label": "knee pad",
+                "score": "5.8%"
+            }
+        ],
+        "caption": "a field with a bunch of green grasses and a person standing in the grass "
+    },
+    {
+        "url": "https://raw.githubusercontent.com/SumeetChougule/image-hosting/main/images/image-24.jpg",
+        "detection_results": [
+            {
+                "xmin": 552.4973754882812,
+                "ymin": 162.12208557128906,
+                "xmax": 996.0573120117188,
+                "ymax": 521.304931640625,
+                "confidence": 0.9343124032020569,
+                "class": 20,
+                "name": "elephant"
+            },
+            {
+                "xmin": 117.0705337524414,
+                "ymin": 124.72364807128906,
+                "xmax": 572.2338256835938,
+                "ymax": 560.52734375,
+                "confidence": 0.867231547832489,
+                "class": 20,
+                "name": "elephant"
+            },
+            {
+                "xmin": 14.70891284942627,
+                "ymin": 107.91559600830078,
+                "xmax": 340.3287048339844,
+                "ymax": 523.5030517578125,
+                "confidence": 0.5274307727813721,
+                "class": 20,
+                "name": "elephant"
+            }
+        ],
+        "classification_results": [
+            {
+                "object": "elephant",
+                "class_id": 101,
+                "class_label": "tusker",
+                "score": "31.1%"
+            },
+            {
+                "object": "elephant",
+                "class_id": 101,
+                "class_label": "tusker",
+                "score": "37.0%"
+            },
+            {
+                "object": "elephant",
+                "class_id": 101,
+                "class_label": "tusker",
+                "score": "44.6%"
+            }
+        ],
+        "caption": "elephants standing in a grassy field "
+    },
+    {
+        "url": "https://raw.githubusercontent.com/SumeetChougule/image-hosting/main/images/image-25.jpg",
+        "detection_results": [
+            {
+                "xmin": 392.09698486328125,
+                "ymin": 245.78976440429688,
+                "xmax": 960.2311401367188,
+                "ymax": 1710.52001953125,
+                "confidence": 0.8656749725341797,
+                "class": 0,
+                "name": "person"
+            }
+        ],
+        "classification_results": [
+            {
+                "object": "person",
+                "class_id": 981,
+                "class_label": "ballplayer",
+                "score": "12.7%"
+            }
+        ],
+        "caption": "a man running across a dirt road "
+    },
+    {
+        "url": "https://raw.githubusercontent.com/SumeetChougule/image-hosting/main/images/image-26.jpg",
+        "detection_results": [
+            {
+                "xmin": 3957.042724609375,
+                "ymin": 857.2659301757812,
+                "xmax": 4538.64453125,
+                "ymax": 1449.3319091796875,
+                "confidence": 0.8730747103691101,
+                "class": 6,
+                "name": "train"
+            },
+            {
+                "xmin": 154.84503173828125,
+                "ymin": 1241.5047607421875,
+                "xmax": 340.3558044433594,
+                "ymax": 1678.0430908203125,
+                "confidence": 0.8225690126419067,
+                "class": 0,
+                "name": "person"
+            },
+            {
+                "xmin": 4530.65869140625,
+                "ymin": 1087.3480224609375,
+                "xmax": 4622.14892578125,
+                "ymax": 1381.923095703125,
+                "confidence": 0.6091340780258179,
+                "class": 0,
+                "name": "person"
+            },
+            {
+                "xmin": 1546.8765869140625,
+                "ymin": 692.7236938476562,
+                "xmax": 3979.302490234375,
+                "ymax": 1967.3248291015625,
+                "confidence": 0.592815101146698,
+                "class": 6,
+                "name": "train"
+            },
+            {
+                "xmin": 240.0585479736328,
+                "ymin": 1260.755615234375,
+                "xmax": 366.86785888671875,
+                "ymax": 1654.6304931640625,
+                "confidence": 0.39140722155570984,
+                "class": 0,
+                "name": "person"
+            },
+            {
+                "xmin": 1415.44775390625,
+                "ymin": 1237.6383056640625,
+                "xmax": 1517.8438720703125,
+                "ymax": 1394.357666015625,
+                "confidence": 0.292987585067749,
+                "class": 0,
+                "name": "person"
+            },
+            {
+                "xmin": 1234.042236328125,
+                "ymin": 1263.037353515625,
+                "xmax": 1300.0887451171875,
+                "ymax": 1380.131103515625,
+                "confidence": 0.27824825048446655,
+                "class": 0,
+                "name": "person"
+            }
+        ],
+        "classification_results": [
+            {
+                "object": "train",
+                "class_id": 547,
+                "class_label": "electric locomotive",
+                "score": "36.6%"
+            },
+            {
+                "object": "person",
+                "class_id": 597,
+                "class_label": "holster",
+                "score": "11.2%"
+            },
+            {
+                "object": "person",
+                "class_id": 615,
+                "class_label": "knee pad",
+                "score": "15.4%"
+            },
+            {
+                "object": "train",
+                "class_id": 705,
+                "class_label": "passenger car",
+                "score": "16.8%"
+            },
+            {
+                "object": "person",
+                "class_id": 465,
+                "class_label": "bulletproof vest",
+                "score": "19.2%"
+            },
+            {
+                "object": "person",
+                "class_id": 691,
+                "class_label": "oxygen mask",
+                "score": "1.6%"
+            },
+            {
+                "object": "person",
+                "class_id": 857,
+                "class_label": "throne",
+                "score": "6.6%"
+            }
+        ],
+        "caption": "a train is parked at a train station "
+    },
+    {
+        "url": "https://raw.githubusercontent.com/SumeetChougule/image-hosting/main/images/image-3.jpg",
+        "detection_results": [
+            {
+                "xmin": 61.453857421875,
+                "ymin": 73.61791229248047,
+                "xmax": 180.43118286132812,
+                "ymax": 232.07713317871094,
+                "confidence": 0.8678097128868103,
+                "class": 17,
+                "name": "horse"
+            },
+            {
+                "xmin": 0.0,
+                "ymin": 88.49729919433594,
+                "xmax": 51.620323181152344,
+                "ymax": 110.8868408203125,
+                "confidence": 0.7703737020492554,
+                "class": 2,
+                "name": "car"
+            },
+            {
+                "xmin": 183.91893005371094,
+                "ymin": 87.78278350830078,
+                "xmax": 208.78318786621094,
+                "ymax": 104.86973571777344,
+                "confidence": 0.7422581315040588,
+                "class": 2,
+                "name": "car"
+            },
+            {
+                "xmin": 99.93731689453125,
+                "ymin": 1.155354380607605,
+                "xmax": 159.84420776367188,
+                "ymax": 152.78775024414062,
+                "confidence": 0.3510628938674927,
+                "class": 0,
+                "name": "person"
+            }
+        ],
+        "classification_results": [
+            {
+                "object": "horse",
+                "class_id": 339,
+                "class_label": "sorrel",
+                "score": "38.6%"
+            },
+            {
+                "object": "car",
+                "class_id": 783,
+                "class_label": "screw",
+                "score": "4.4%"
+            },
+            {
+                "object": "car",
+                "class_id": 653,
+                "class_label": "milk can",
+                "score": "22.4%"
+            },
+            {
+                "object": "person",
+                "class_id": 413,
+                "class_label": "assault rifle",
+                "score": "4.1%"
+            }
+        ],
+        "caption": "a person riding a horse on a dirt road "
+    },
+    {
+        "url": "https://raw.githubusercontent.com/SumeetChougule/image-hosting/main/images/image-4.jpg",
+        "detection_results": [
+            {
+                "xmin": 30.5111141204834,
+                "ymin": 126.01457214355469,
+                "xmax": 70.61299133300781,
+                "ymax": 208.64321899414062,
+                "confidence": 0.8098852634429932,
+                "class": 14,
+                "name": "bird"
+            },
+            {
+                "xmin": 149.4317626953125,
+                "ymin": 214.03152465820312,
+                "xmax": 177.70156860351562,
+                "ymax": 286.78387451171875,
+                "confidence": 0.711176335811615,
+                "class": 14,
+                "name": "bird"
+            },
+            {
+                "xmin": 762.8464965820312,
+                "ymin": 99.12359619140625,
+                "xmax": 787.57861328125,
+                "ymax": 146.15916442871094,
+                "confidence": 0.7107273936271667,
+                "class": 14,
+                "name": "bird"
+            },
+            {
+                "xmin": 548.9857177734375,
+                "ymin": 128.8435516357422,
+                "xmax": 577.3197021484375,
+                "ymax": 193.90847778320312,
+                "confidence": 0.6746567487716675,
+                "class": 14,
+                "name": "bird"
+            },
+            {
+                "xmin": 906.6549682617188,
+                "ymin": 433.20513916015625,
+                "xmax": 936.34326171875,
+                "ymax": 482.3704528808594,
+                "confidence": 0.6590063571929932,
+                "class": 14,
+                "name": "bird"
+            },
+            {
+                "xmin": 446.33807373046875,
+                "ymin": 394.153076171875,
+                "xmax": 506.64599609375,
+                "ymax": 461.8143005371094,
+                "confidence": 0.6485140919685364,
+                "class": 14,
+                "name": "bird"
+            },
+            {
+                "xmin": 812.09912109375,
+                "ymin": 346.25469970703125,
+                "xmax": 842.28662109375,
+                "ymax": 398.82232666015625,
+                "confidence": 0.6302407383918762,
+                "class": 14,
+                "name": "bird"
+            },
+            {
+                "xmin": 713.0078125,
+                "ymin": 176.17572021484375,
+                "xmax": 737.5604248046875,
+                "ymax": 214.68179321289062,
+                "confidence": 0.616767168045044,
+                "class": 14,
+                "name": "bird"
+            },
+            {
+                "xmin": 648.1226806640625,
+                "ymin": 391.3691711425781,
+                "xmax": 686.1425170898438,
+                "ymax": 452.2178649902344,
+                "confidence": 0.5642576813697815,
+                "class": 14,
+                "name": "bird"
+            },
+            {
+                "xmin": 622.505126953125,
+                "ymin": 167.1714630126953,
+                "xmax": 646.2627563476562,
+                "ymax": 206.44583129882812,
+                "confidence": 0.4697606861591339,
+                "class": 14,
+                "name": "bird"
+            },
+            {
+                "xmin": 419.363037109375,
+                "ymin": 242.74111938476562,
+                "xmax": 440.90960693359375,
+                "ymax": 311.68731689453125,
+                "confidence": 0.4598834216594696,
+                "class": 14,
+                "name": "bird"
+            },
+            {
+                "xmin": 780.6019287109375,
+                "ymin": 152.67410278320312,
+                "xmax": 825.6002807617188,
+                "ymax": 203.92601013183594,
+                "confidence": 0.4332411587238312,
+                "class": 14,
+                "name": "bird"
+            },
+            {
+                "xmin": 438.648193359375,
+                "ymin": 155.53134155273438,
+                "xmax": 471.4342346191406,
+                "ymax": 216.99966430664062,
+                "confidence": 0.4332071542739868,
+                "class": 14,
+                "name": "bird"
+            },
+            {
+                "xmin": 252.966552734375,
+                "ymin": 416.6025390625,
+                "xmax": 284.05523681640625,
+                "ymax": 470.1322326660156,
+                "confidence": 0.42019152641296387,
+                "class": 14,
+                "name": "bird"
+            },
+            {
+                "xmin": 883.7747192382812,
+                "ymin": 339.72418212890625,
+                "xmax": 908.6531982421875,
+                "ymax": 372.4275817871094,
+                "confidence": 0.34450921416282654,
+                "class": 14,
+                "name": "bird"
+            },
+            {
+                "xmin": 647.216552734375,
+                "ymin": 194.90228271484375,
+                "xmax": 667.2122802734375,
+                "ymax": 231.0596160888672,
+                "confidence": 0.3378329575061798,
+                "class": 14,
+                "name": "bird"
+            },
+            {
+                "xmin": 476.12615966796875,
+                "ymin": 474.86907958984375,
+                "xmax": 544.5104370117188,
+                "ymax": 543.198974609375,
+                "confidence": 0.33415865898132324,
+                "class": 14,
+                "name": "bird"
+            },
+            {
+                "xmin": 617.5955200195312,
+                "ymin": 360.04461669921875,
+                "xmax": 638.7154541015625,
+                "ymax": 395.8096008300781,
+                "confidence": 0.3198610842227936,
+                "class": 14,
+                "name": "bird"
+            },
+            {
+                "xmin": 535.4822387695312,
+                "ymin": 423.21221923828125,
+                "xmax": 585.4454345703125,
+                "ymax": 459.2373046875,
+                "confidence": 0.31209737062454224,
+                "class": 14,
+                "name": "bird"
+            },
+            {
+                "xmin": 961.0347900390625,
+                "ymin": 320.6072692871094,
+                "xmax": 979.9703369140625,
+                "ymax": 363.7213439941406,
+                "confidence": 0.310418039560318,
+                "class": 14,
+                "name": "bird"
+            },
+            {
+                "xmin": 312.4825744628906,
+                "ymin": 299.4317321777344,
+                "xmax": 336.57373046875,
+                "ymax": 347.6031188964844,
+                "confidence": 0.30256691575050354,
+                "class": 14,
+                "name": "bird"
+            },
+            {
+                "xmin": 352.5283508300781,
+                "ymin": 344.9477844238281,
+                "xmax": 389.7475280761719,
+                "ymax": 393.9042663574219,
+                "confidence": 0.2876302897930145,
+                "class": 14,
+                "name": "bird"
+            },
+            {
+                "xmin": 952.1507568359375,
+                "ymin": 279.58514404296875,
+                "xmax": 984.3863525390625,
+                "ymax": 319.9468994140625,
+                "confidence": 0.26301923394203186,
+                "class": 14,
+                "name": "bird"
+            },
+            {
+                "xmin": 503.65960693359375,
+                "ymin": 348.2152099609375,
+                "xmax": 535.2305297851562,
+                "ymax": 397.9208679199219,
+                "confidence": 0.26042696833610535,
+                "class": 14,
+                "name": "bird"
+            }
+        ],
+        "classification_results": [
+            {
+                "object": "bird",
+                "class_id": 377,
+                "class_label": "marmoset",
+                "score": "6.9%"
+            },
+            {
+                "object": "bird",
+                "class_id": 147,
+                "class_label": "grey whale",
+                "score": "12.3%"
+            },
+            {
+                "object": "bird",
+                "class_id": 439,
+                "class_label": "bearskin",
+                "score": "20.8%"
+            },
+            {
+                "object": "bird",
+                "class_id": 714,
+                "class_label": "pick",
+                "score": "12.5%"
+            },
+            {
+                "object": "bird",
+                "class_id": 714,
+                "class_label": "pick",
+                "score": "5.1%"
+            },
+            {
+                "object": "bird",
+                "class_id": 80,
+                "class_label": "black grouse",
+                "score": "5.6%"
+            },
+            {
+                "object": "bird",
+                "class_id": 906,
+                "class_label": "Windsor tie",
+                "score": "9.7%"
+            },
+            {
+                "object": "bird",
+                "class_id": 714,
+                "class_label": "pick",
+                "score": "12.8%"
+            },
+            {
+                "object": "bird",
+                "class_id": 135,
+                "class_label": "limpkin",
+                "score": "10.0%"
+            },
+            {
+                "object": "bird",
+                "class_id": 152,
+                "class_label": "Japanese spaniel",
+                "score": "6.4%"
+            },
+            {
+                "object": "bird",
+                "class_id": 439,
+                "class_label": "bearskin",
+                "score": "18.0%"
+            },
+            {
+                "object": "bird",
+                "class_id": 98,
+                "class_label": "red-breasted merganser",
+                "score": "6.2%"
+            },
+            {
+                "object": "bird",
+                "class_id": 906,
+                "class_label": "Windsor tie",
+                "score": "10.4%"
+            },
+            {
+                "object": "bird",
+                "class_id": 365,
+                "class_label": "orangutan",
+                "score": "4.3%"
+            },
+            {
+                "object": "bird",
+                "class_id": 623,
+                "class_label": "letter opener",
+                "score": "7.8%"
+            },
+            {
+                "object": "bird",
+                "class_id": 901,
+                "class_label": "whiskey jug",
+                "score": "14.3%"
+            },
+            {
+                "object": "bird",
+                "class_id": 375,
+                "class_label": "colobus",
+                "score": "5.3%"
+            },
+            {
+                "object": "bird",
+                "class_id": 901,
+                "class_label": "whiskey jug",
+                "score": "21.2%"
+            },
+            {
+                "object": "bird",
+                "class_id": 360,
+                "class_label": "otter",
+                "score": "25.4%"
+            },
+            {
+                "object": "bird",
+                "class_id": 901,
+                "class_label": "whiskey jug",
+                "score": "29.6%"
+            },
+            {
+                "object": "bird",
+                "class_id": 439,
+                "class_label": "bearskin",
+                "score": "4.3%"
+            },
+            {
+                "object": "bird",
+                "class_id": 335,
+                "class_label": "fox squirrel",
+                "score": "9.7%"
+            },
+            {
+                "object": "bird",
+                "class_id": 906,
+                "class_label": "Windsor tie",
+                "score": "12.1%"
+            },
+            {
+                "object": "bird",
+                "class_id": 906,
+                "class_label": "Windsor tie",
+                "score": "23.3%"
+            }
+        ],
+        "caption": "birds perched on top of a tree "
+    },
+    {
+        "url": "https://raw.githubusercontent.com/SumeetChougule/image-hosting/main/images/image-5.jpg",
+        "detection_results": [
+            {
+                "xmin": 472.7225341796875,
+                "ymin": 253.39044189453125,
+                "xmax": 616.0617065429688,
+                "ymax": 329.7044677734375,
+                "confidence": 0.8592131733894348,
+                "class": 76,
+                "name": "scissors"
+            },
+            {
+                "xmin": 725.557373046875,
+                "ymin": 307.37847900390625,
+                "xmax": 997.4968872070312,
+                "ymax": 662.9890747070312,
+                "confidence": 0.7214953303337097,
+                "class": 0,
+                "name": "person"
+            },
+            {
+                "xmin": 1.3452768325805664,
+                "ymin": 30.996078491210938,
+                "xmax": 274.5631103515625,
+                "ymax": 393.4343566894531,
+                "confidence": 0.6048659086227417,
+                "class": 0,
+                "name": "person"
+            },
+            {
+                "xmin": 464.8499450683594,
+                "ymin": 0.1917317509651184,
+                "xmax": 849.2889404296875,
+                "ymax": 324.6321105957031,
+                "confidence": 0.49278709292411804,
+                "class": 25,
+                "name": "umbrella"
+            }
+        ],
+        "classification_results": [
+            {
+                "object": "scissors",
+                "class_id": 623,
+                "class_label": "letter opener",
+                "score": "17.0%"
+            },
+            {
+                "object": "person",
+                "class_id": 448,
+                "class_label": "birdhouse",
+                "score": "12.3%"
+            },
+            {
+                "object": "person",
+                "class_id": 419,
+                "class_label": "Band Aid",
+                "score": "2.6%"
+            },
+            {
+                "object": "umbrella",
+                "class_id": 549,
+                "class_label": "envelope",
+                "score": "17.5%"
+            }
+        ],
+        "caption": "a child is cutting paper with scissors "
+    },
+    {
+        "url": "https://raw.githubusercontent.com/SumeetChougule/image-hosting/main/images/image-7.jpg",
+        "detection_results": [
+            {
+                "xmin": 173.11180114746094,
+                "ymin": 310.4996337890625,
+                "xmax": 276.74468994140625,
+                "ymax": 570.0227661132812,
+                "confidence": 0.8816375136375427,
+                "class": 0,
+                "name": "person"
+            },
+            {
+                "xmin": 551.4462280273438,
+                "ymin": 289.75018310546875,
+                "xmax": 741.7451171875,
+                "ymax": 605.4901123046875,
+                "confidence": 0.879728376865387,
+                "class": 0,
+                "name": "person"
+            },
+            {
+                "xmin": 1001.69775390625,
+                "ymin": 294.9342956542969,
+                "xmax": 1211.036865234375,
+                "ymax": 628.0372314453125,
+                "confidence": 0.8778742551803589,
+                "class": 0,
+                "name": "person"
+            },
+            {
+                "xmin": 746.79931640625,
+                "ymin": 370.9631652832031,
+                "xmax": 896.1764526367188,
+                "ymax": 446.29718017578125,
+                "confidence": 0.8618680238723755,
+                "class": 2,
+                "name": "car"
+            },
+            {
+                "xmin": 839.2244873046875,
+                "ymin": 309.1893005371094,
+                "xmax": 990.6716918945312,
+                "ymax": 560.5322875976562,
+                "confidence": 0.8381247520446777,
+                "class": 0,
+                "name": "person"
+            },
+            {
+                "xmin": 0.0,
+                "ymin": 357.1556701660156,
+                "xmax": 18.685083389282227,
+                "ymax": 440.0212097167969,
+                "confidence": 0.7369658946990967,
+                "class": 0,
+                "name": "person"
+            },
+            {
+                "xmin": 527.5533447265625,
+                "ymin": 358.70147705078125,
+                "xmax": 609.2249755859375,
+                "ymax": 421.62957763671875,
+                "confidence": 0.7010461091995239,
+                "class": 2,
+                "name": "car"
+            },
+            {
+                "xmin": 253.3474884033203,
+                "ymin": 353.3271179199219,
+                "xmax": 292.251953125,
+                "ymax": 410.6245422363281,
+                "confidence": 0.652525782585144,
+                "class": 2,
+                "name": "car"
+            },
+            {
+                "xmin": 684.5682373046875,
+                "ymin": 352.12335205078125,
+                "xmax": 774.17333984375,
+                "ymax": 411.306396484375,
+                "confidence": 0.5555244088172913,
+                "class": 7,
+                "name": "truck"
+            },
+            {
+                "xmin": 41.6612663269043,
+                "ymin": 353.7399597167969,
+                "xmax": 67.92729949951172,
+                "ymax": 438.6165466308594,
+                "confidence": 0.5459864139556885,
+                "class": 0,
+                "name": "person"
+            },
+            {
+                "xmin": 508.3214111328125,
+                "ymin": 359.170654296875,
+                "xmax": 555.3472900390625,
+                "ymax": 416.7620849609375,
+                "confidence": 0.48588794469833374,
+                "class": 2,
+                "name": "car"
+            },
+            {
+                "xmin": 477.1521301269531,
+                "ymin": 359.04412841796875,
+                "xmax": 525.6749877929688,
+                "ymax": 383.7486572265625,
+                "confidence": 0.45045965909957886,
+                "class": 2,
+                "name": "car"
+            },
+            {
+                "xmin": 684.3098754882812,
+                "ymin": 350.0638732910156,
+                "xmax": 773.6168823242188,
+                "ymax": 411.1121826171875,
+                "confidence": 0.38936927914619446,
+                "class": 2,
+                "name": "car"
+            },
+            {
+                "xmin": 567.9922485351562,
+                "ymin": 364.4997863769531,
+                "xmax": 615.9185791015625,
+                "ymax": 439.7651672363281,
+                "confidence": 0.31001153588294983,
+                "class": 2,
+                "name": "car"
+            },
+            {
+                "xmin": 289.3446960449219,
+                "ymin": 348.5603332519531,
+                "xmax": 311.0883483886719,
+                "ymax": 371.44744873046875,
+                "confidence": 0.2701604962348938,
+                "class": 2,
+                "name": "car"
+            },
+            {
+                "xmin": 1220.9464111328125,
+                "ymin": 355.00885009765625,
+                "xmax": 1232.0,
+                "ymax": 425.4985046386719,
+                "confidence": 0.2700265347957611,
+                "class": 0,
+                "name": "person"
+            },
+            {
+                "xmin": 315.46466064453125,
+                "ymin": 344.3641052246094,
+                "xmax": 339.9520568847656,
+                "ymax": 358.35235595703125,
+                "confidence": 0.2645006775856018,
+                "class": 2,
+                "name": "car"
+            }
+        ],
+        "classification_results": [
+            {
+                "object": "person",
+                "class_id": 399,
+                "class_label": "abaya",
+                "score": "40.1%"
+            },
+            {
+                "object": "person",
+                "class_id": 630,
+                "class_label": "Loafer",
+                "score": "55.7%"
+            },
+            {
+                "object": "person",
+                "class_id": 869,
+                "class_label": "trench coat",
+                "score": "14.0%"
+            },
+            {
+                "object": "car",
+                "class_id": 817,
+                "class_label": "sports car",
+                "score": "8.7%"
+            },
+            {
+                "object": "person",
+                "class_id": 399,
+                "class_label": "abaya",
+                "score": "52.6%"
+            },
+            {
+                "object": "person",
+                "class_id": 653,
+                "class_label": "milk can",
+                "score": "17.6%"
+            },
+            {
+                "object": "car",
+                "class_id": 675,
+                "class_label": "moving van",
+                "score": "9.9%"
+            },
+            {
+                "object": "car",
+                "class_id": 675,
+                "class_label": "moving van",
+                "score": "21.3%"
+            },
+            {
+                "object": "truck",
+                "class_id": 675,
+                "class_label": "moving van",
+                "score": "36.1%"
+            },
+            {
+                "object": "person",
+                "class_id": 439,
+                "class_label": "bearskin",
+                "score": "7.6%"
+            },
+            {
+                "object": "car",
+                "class_id": 439,
+                "class_label": "bearskin",
+                "score": "8.2%"
+            },
+            {
+                "object": "car",
+                "class_id": 675,
+                "class_label": "moving van",
+                "score": "2.8%"
+            },
+            {
+                "object": "car",
+                "class_id": 675,
+                "class_label": "moving van",
+                "score": "26.6%"
+            },
+            {
+                "object": "car",
+                "class_id": 675,
+                "class_label": "moving van",
+                "score": "39.5%"
+            },
+            {
+                "object": "car",
+                "class_id": 194,
+                "class_label": "Dandie Dinmont",
+                "score": "11.4%"
+            },
+            {
+                "object": "person",
+                "class_id": 653,
+                "class_label": "milk can",
+                "score": "10.8%"
+            },
+            {
+                "object": "car",
+                "class_id": 683,
+                "class_label": "oboe",
+                "score": "8.9%"
+            }
+        ],
+        "caption": "people walking down a street "
+    },
+    {
+        "url": "https://raw.githubusercontent.com/SumeetChougule/image-hosting/main/images/image-8.jpg",
+        "detection_results": [
+            {
+                "xmin": 542.4743041992188,
+                "ymin": 593.2122192382812,
+                "xmax": 697.232177734375,
+                "ymax": 734.9327392578125,
+                "confidence": 0.6534934639930725,
+                "class": 50,
+                "name": "broccoli"
+            },
+            {
+                "xmin": 1064.64990234375,
+                "ymin": 510.5633239746094,
+                "xmax": 1296.3778076171875,
+                "ymax": 770.1024780273438,
+                "confidence": 0.6188269257545471,
+                "class": 50,
+                "name": "broccoli"
+            },
+            {
+                "xmin": 334.4196472167969,
+                "ymin": 499.5190734863281,
+                "xmax": 447.1876525878906,
+                "ymax": 603.8539428710938,
+                "confidence": 0.5944948196411133,
+                "class": 50,
+                "name": "broccoli"
+            },
+            {
+                "xmin": 937.1954345703125,
+                "ymin": 24.72305679321289,
+                "xmax": 1496.9127197265625,
+                "ymax": 369.3466491699219,
+                "confidence": 0.5905935168266296,
+                "class": 44,
+                "name": "spoon"
+            },
+            {
+                "xmin": 462.05712890625,
+                "ymin": 315.7635498046875,
+                "xmax": 654.2445068359375,
+                "ymax": 462.13525390625,
+                "confidence": 0.5878535509109497,
+                "class": 50,
+                "name": "broccoli"
+            },
+            {
+                "xmin": 579.5281372070312,
+                "ymin": 455.2412414550781,
+                "xmax": 880.7578125,
+                "ymax": 664.077392578125,
+                "confidence": 0.5592972636222839,
+                "class": 50,
+                "name": "broccoli"
+            },
+            {
+                "xmin": 185.96340942382812,
+                "ymin": 14.059041976928711,
+                "xmax": 1480.3670654296875,
+                "ymax": 970.9378662109375,
+                "confidence": 0.5092434883117676,
+                "class": 45,
+                "name": "bowl"
+            },
+            {
+                "xmin": 911.1686401367188,
+                "ymin": 319.9454345703125,
+                "xmax": 1119.5489501953125,
+                "ymax": 480.5682067871094,
+                "confidence": 0.4933100938796997,
+                "class": 50,
+                "name": "broccoli"
+            },
+            {
+                "xmin": 1164.5361328125,
+                "ymin": 348.66961669921875,
+                "xmax": 1307.2628173828125,
+                "ymax": 522.6239624023438,
+                "confidence": 0.42869171500205994,
+                "class": 50,
+                "name": "broccoli"
+            },
+            {
+                "xmin": 717.7218017578125,
+                "ymin": 240.02029418945312,
+                "xmax": 888.047607421875,
+                "ymax": 423.2213439941406,
+                "confidence": 0.3912230432033539,
+                "class": 50,
+                "name": "broccoli"
+            },
+            {
+                "xmin": 522.4722290039062,
+                "ymin": 184.55670166015625,
+                "xmax": 679.385986328125,
+                "ymax": 306.89288330078125,
+                "confidence": 0.3753047585487366,
+                "class": 50,
+                "name": "broccoli"
+            },
+            {
+                "xmin": 494.1158447265625,
+                "ymin": 476.98443603515625,
+                "xmax": 600.17041015625,
+                "ymax": 563.177978515625,
+                "confidence": 0.3346155285835266,
+                "class": 50,
+                "name": "broccoli"
+            },
+            {
+                "xmin": 1342.874267578125,
+                "ymin": 625.5994873046875,
+                "xmax": 1499.6517333984375,
+                "ymax": 742.2843017578125,
+                "confidence": 0.3201412260532379,
+                "class": 50,
+                "name": "broccoli"
+            },
+            {
+                "xmin": 1221.3349609375,
+                "ymin": 283.68499755859375,
+                "xmax": 1357.4251708984375,
+                "ymax": 392.0514221191406,
+                "confidence": 0.26883628964424133,
+                "class": 50,
+                "name": "broccoli"
+            },
+            {
+                "xmin": 675.2642822265625,
+                "ymin": 338.93890380859375,
+                "xmax": 744.6443481445312,
+                "ymax": 422.9017639160156,
+                "confidence": 0.266980916261673,
+                "class": 50,
+                "name": "broccoli"
+            }
+        ],
+        "classification_results": [
+            {
+                "object": "broccoli",
+                "class_id": 937,
+                "class_label": "broccoli",
+                "score": "23.3%"
+            },
+            {
+                "object": "broccoli",
+                "class_id": 937,
+                "class_label": "broccoli",
+                "score": "38.0%"
+            },
+            {
+                "object": "broccoli",
+                "class_id": 937,
+                "class_label": "broccoli",
+                "score": "6.1%"
+            },
+            {
+                "object": "spoon",
+                "class_id": 666,
+                "class_label": "mortar",
+                "score": "31.5%"
+            },
+            {
+                "object": "broccoli",
+                "class_id": 925,
+                "class_label": "consomme",
+                "score": "12.2%"
+            },
+            {
+                "object": "broccoli",
+                "class_id": 937,
+                "class_label": "broccoli",
+                "score": "37.5%"
+            },
+            {
+                "object": "bowl",
+                "class_id": 937,
+                "class_label": "broccoli",
+                "score": "31.4%"
+            },
+            {
+                "object": "broccoli",
+                "class_id": 937,
+                "class_label": "broccoli",
+                "score": "34.2%"
+            },
+            {
+                "object": "broccoli",
+                "class_id": 937,
+                "class_label": "broccoli",
+                "score": "39.9%"
+            },
+            {
+                "object": "broccoli",
+                "class_id": 937,
+                "class_label": "broccoli",
+                "score": "61.2%"
+            },
+            {
+                "object": "broccoli",
+                "class_id": 991,
+                "class_label": "coral fungus",
+                "score": "5.0%"
+            },
+            {
+                "object": "broccoli",
+                "class_id": 937,
+                "class_label": "broccoli",
+                "score": "8.3%"
+            },
+            {
+                "object": "broccoli",
+                "class_id": 937,
+                "class_label": "broccoli",
+                "score": "23.2%"
+            },
+            {
+                "object": "broccoli",
+                "class_id": 937,
+                "class_label": "broccoli",
+                "score": "8.4%"
+            },
+            {
+                "object": "broccoli",
+                "class_id": 937,
+                "class_label": "broccoli",
+                "score": "17.3%"
+            }
+        ],
+        "caption": "a bowl of pasta with broccoli and noodles "
+    },
+    {
+        "url": "https://raw.githubusercontent.com/SumeetChougule/image-hosting/main/images/image-9.jpg",
+        "detection_results": [
+            {
+                "xmin": 360.3504333496094,
+                "ymin": 294.80255126953125,
+                "xmax": 1603.0623779296875,
+                "ymax": 1616.212646484375,
+                "confidence": 0.795304536819458,
+                "class": 0,
+                "name": "person"
+            },
+            {
+                "xmin": 968.3417358398438,
+                "ymin": 640.7510986328125,
+                "xmax": 1036.687255859375,
+                "ymax": 957.4175415039062,
+                "confidence": 0.734795331954956,
+                "class": 27,
+                "name": "tie"
+            },
+            {
+                "xmin": 1964.4228515625,
+                "ymin": 954.9130249023438,
+                "xmax": 2210.131591796875,
+                "ymax": 1537.9088134765625,
+                "confidence": 0.6398962140083313,
+                "class": 0,
+                "name": "person"
+            },
+            {
+                "xmin": 10.57851505279541,
+                "ymin": 279.00579833984375,
+                "xmax": 281.36517333984375,
+                "ymax": 558.9423217773438,
+                "confidence": 0.6097601056098938,
+                "class": 0,
+                "name": "person"
+            },
+            {
+                "xmin": 2147.023193359375,
+                "ymin": 1049.902587890625,
+                "xmax": 2423.363037109375,
+                "ymax": 1550.1318359375,
+                "confidence": 0.593889594078064,
+                "class": 0,
+                "name": "person"
+            },
+            {
+                "xmin": 276.668701171875,
+                "ymin": 1107.597900390625,
+                "xmax": 503.14788818359375,
+                "ymax": 1422.814453125,
+                "confidence": 0.5726865530014038,
+                "class": 0,
+                "name": "person"
+            },
+            {
+                "xmin": 449.2647705078125,
+                "ymin": 283.209716796875,
+                "xmax": 622.1446533203125,
+                "ymax": 558.0750122070312,
+                "confidence": 0.5183706283569336,
+                "class": 0,
+                "name": "person"
+            },
+            {
+                "xmin": 195.24363708496094,
+                "ymin": 872.5708618164062,
+                "xmax": 2174.447509765625,
+                "ymax": 2948.278564453125,
+                "confidence": 0.43278419971466064,
+                "class": 7,
+                "name": "truck"
+            },
+            {
+                "xmin": 1831.614501953125,
+                "ymin": 885.7041015625,
+                "xmax": 1985.1341552734375,
+                "ymax": 1290.945556640625,
+                "confidence": 0.30466100573539734,
+                "class": 0,
+                "name": "person"
+            }
+        ],
+        "classification_results": [
+            {
+                "object": "person",
+                "class_id": 840,
+                "class_label": "swab",
+                "score": "8.7%"
+            },
+            {
+                "object": "tie",
+                "class_id": 885,
+                "class_label": "velvet",
+                "score": "5.5%"
+            },
+            {
+                "object": "person",
+                "class_id": 989,
+                "class_label": "hip",
+                "score": "1.3%"
+            },
+            {
+                "object": "person",
+                "class_id": 989,
+                "class_label": "hip",
+                "score": "5.4%"
+            },
+            {
+                "object": "person",
+                "class_id": 195,
+                "class_label": "Boston bull",
+                "score": "1.2%"
+            },
+            {
+                "object": "person",
+                "class_id": 644,
+                "class_label": "matchstick",
+                "score": "14.3%"
+            },
+            {
+                "object": "person",
+                "class_id": 81,
+                "class_label": "ptarmigan",
+                "score": "1.6%"
+            },
+            {
+                "object": "truck",
+                "class_id": 468,
+                "class_label": "cab",
+                "score": "7.6%"
+            },
+            {
+                "object": "person",
+                "class_id": 95,
+                "class_label": "jacamar",
+                "score": "11.9%"
+            }
+        ],
+        "caption": "a man in a suit sitting on a car "
+    },
+    {
+        "url": "https://raw.githubusercontent.com/SumeetChougule/image-hosting/main/images/image-16.jpeg",
+        "detection_results": [
+            {
+                "xmin": 1643.0472412109375,
+                "ymin": 280.48211669921875,
+                "xmax": 2258.078369140625,
+                "ymax": 1533.84326171875,
+                "confidence": 0.9319794774055481,
+                "class": 15,
+                "name": "cat"
+            }
+        ],
+        "classification_results": [
+            {
+                "object": "cat",
+                "class_id": 285,
+                "class_label": "Egyptian cat",
+                "score": "24.2%"
+            }
+        ],
+        "caption": "a black and white cat standing on a sidewalk "
+    },
+    {
+        "url": "https://raw.githubusercontent.com/SumeetChougule/image-hosting/main/images/image-17.jpeg",
+        "detection_results": [
+            {
+                "xmin": 448.7601318359375,
+                "ymin": 109.99454498291016,
+                "xmax": 1447.49560546875,
+                "ymax": 1184.27685546875,
+                "confidence": 0.733166515827179,
+                "class": 0,
+                "name": "person"
+            }
+        ],
+        "classification_results": [
+            {
+                "object": "person",
+                "class_id": 806,
+                "class_label": "sock",
+                "score": "13.6%"
+            }
+        ],
+        "caption": "a stuffed bear sitting on a bench in front of a building "
+    }
+]
